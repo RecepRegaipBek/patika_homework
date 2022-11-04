@@ -1,0 +1,38 @@
+html,body{
+    height: 100%;
+  }
+
+  .container {
+    width: 100%;
+    background-image: url(/img/pexels-marie-r-10869244.jpg);
+    background-size: cover;
+  
+
+  }
+
+  .main {
+
+    margin: 0 auto;
+    width: 50%;
+    border: 2px solid black;
+    padding: 1rem;
+    background: rgb(245, 245, 248);
+    z-index: 2;
+  }
+
+  h1{
+    text-align: center;
+  }
+  h2{
+    color: red;
+  }
+  a{
+    text-decoration: none;
+    color: rgb(245, 8, 158);
+  }
+  img {
+  display: flex;
+  margin: 0 auto;
+  width: 50%;
+  border-radius: 10px;
+}
