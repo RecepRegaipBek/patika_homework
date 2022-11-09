@@ -1,0 +1,32 @@
+ body{
+    text-align: center;
+    padding-top: 3rem;
+    list-style-position: inside;
+    background-color: rgb(119, 181, 109);
+    font-size: 1.4rem;
+ }
+
+  a{
+    text-decoration: none;
+    padding: 1rem;
+  }
+  .heading-1,.left-1{
+    text-align: left;
+  }
+  .heading-1{
+    padding-top: 5rem;
+  }
+  div.container img{
+    width: 450px;
+    height: 255px;
+    margin-top: 8rem;
+  
+  }
+div.container{
+  text-align: center;
+}
+div.container h1{
+  text-align: left !important;
+}
+  
+
